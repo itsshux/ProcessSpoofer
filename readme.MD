@@ -20,6 +20,11 @@ Add processes you want to hide, for example:<br>
 * EpicProgram.exe<br>
 * Save, ctrl + s :)<Br>
 
+Since version 1.2 you can hide process icons from task view, just add ; infront of the process name
+Example: 
+ 
+* notepad.exe;
+
 You can add unlimited processes
 
 ProcessSpoofer has built in commands, they will be displayed once you run the program
