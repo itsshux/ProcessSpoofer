@@ -10,6 +10,8 @@ If you encounter any issues, feel free to ask a question in the [Discord server]
 
 Each download will have a hash linked to it (coming soon).
 
+Just a quick note, since I added new features like version checking and the ability to run on startup, ProcessSpoofer is now being flagged by even more antivirus programs. These additional features require ProcessSpoofer to access system processes and memory, which can trigger antivirus software to mistakenly identify it as a potential threat. As with the previous version, it's important to understand that ProcessSpoofer is not actually harmful, and adding it to your antivirus exception list can prevent false positives.
+
 ***
 
 # How to Use
