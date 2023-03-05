@@ -8,6 +8,7 @@ Welcome to the ProcessSpoofer wiki!
 ### [Discord Server](https://discord.gg/nfJkdsSpgE)<br>
 ### [Tutorial Video](https://youtu.be/YBM-wFdE068)<br>
 
+Each download will have Hash linked to it, you can verify it by typing GetHash 
 ***
 # How to use
 
@@ -21,11 +22,14 @@ Add processes you want to hide, for example:<br>
 
 You can add unlimited processes
 
+ProcessSpoofer has built in commands, they will be displayed once you run the program
+
 You can hide ProcessSpoofer window by typing hide
 To show it just press INSERT
 
-In case you can't see the window, try killing it using command prompt, make sure you run as admin
-taskkill /IM ProcessHacker.exe /F
+In case you can't see the window after pressing INSERT, try killing it using command prompt, make sure you run as admin<br>
+
+`taskkill /IM ProcessHacker.exe /F`
 
 # Antivirus - False Positive
 There's a chance of your antivirus flagging ProcessSpoofer as malicious due to its nature, you can add either ProcessSpoofer.exe or its directory to exeption list in your antivirus settings<br>
@@ -33,7 +37,6 @@ It's a false positive.
 
 Exceptions in Windows Defender: [Click me](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)<br>
 Exclusions in Malwarebytes: [Click me](https://support.malwarebytes.com/hc/en-us/articles/360038479234-Exclude-detections-in-Malwarebytes-for-Windows)
-
 
 ***
 
