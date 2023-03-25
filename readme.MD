@@ -2,8 +2,6 @@
 
 ## Support
 
-I create these tools at no cost to you, but it takes time and money to maintain the servers and keep them updated. If you appreciate my work, please consider supporting me by donating through PayPal using my email dimitrijem.xxi@gmail.com, or becoming a Patreon supporter. As a donor, you will receive exclusive benefits. Thank you!
-
 If you encounter any issues, feel free to ask a question in the [Discord server](https://discord.gg/nfJkdsSpgE) or DM me directly at shux#5351.
 
 ### Tutorial Video
@@ -48,6 +46,8 @@ Exceptions in Windows Defender: [click here](https://support.microsoft.com/en-us
 Exclusions in Malwarebytes: [click here](https://support.malwarebytes.com/hc/en-us/articles/360038479234-Exclude-detections-in-Malwarebytes-for-Windows).
 
 ***
+
+I create these tools at no cost to you, but it takes time and money to maintain the servers and keep them updated. If you appreciate my work, please consider supporting me by donating through PayPal using my email dimitrijem.xxi@gmail.com, or becoming a Patreon supporter. As a donor, you will receive exclusive benefits. Thank you!
 
 # Warning
 
