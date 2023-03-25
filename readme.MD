@@ -1,8 +1,9 @@
 # Welcome to the ProcessSpoofer Wiki!
 
+ProcessSpoofer will no longer receive updates as its being replaced with a PRO version, its currently being developed!
 ## Support
 
-If you encounter any issues, feel free to ask a question in the [Discord server](https://discord.gg/nfJkdsSpgE) or DM me directly at shux#5351.
+If you encounter any issues, feel free to ask a question in the [Discord server](https://discord.gg/nfJkdsSpgE) or DM me directly at shux#1337.
 
 ### Tutorial Video
 
@@ -16,13 +17,15 @@ Just a quick note, since I added new features like version checking and the abil
 
 # How to Use
 
-To use ProcessSpoofer, you need to run it as an administrator or it won't work! Before running ProcessSpoofer, make sure you create a file named hide.txt in APPDATA. You can do this by pressing Windows key + R and typing `%appdata%`.
+To use ProcessSpoofer, you need to run it as an administrator or it won't work! Before running ProcessSpoofer, make sure you create a file hide.txt.
+In the latest version (1.5) you don't need to create it in appdata, just do it where ProcessSpoofer is
 
 Add the processes you want to hide in the hide.txt file. For example:
 
 * notepad.exe
 * EpicProgram.exe
 
+Since version 1.5 you changes will be applied as soon as you save hide.txt
 Since version 1.2, you can hide process icons from task view by adding a semicolon (;) in front of the process name. Example:
 
 * notepad.exe;
