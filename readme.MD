@@ -1,6 +1,10 @@
 # Welcome to the ProcessSpoofer Wiki!
 
 ProcessSpoofer will no longer receive updates as its being replaced with a PRO version, its currently being developed!
+
+Pro version can hide from any process scannner, you can define your own in scanners.txt
+Check it out: https://itsshux.com/spooferpro
+
 ## Support
 
 If you encounter any issues, feel free to ask a question in the [Discord server](https://discord.gg/nfJkdsSpgE) or DM me directly at shux#1337.
