@@ -1,5 +1,6 @@
 # Welcome to the ProcessSpoofer Wiki!
 
+### SPOOFER FREE IS NO LONGER AVAILABLE, PURCHASE PRO TO USE IT https://itsshux.com/spooferpro
 ProcessSpoofer will no longer receive updates as its being replaced with a PRO version, 
 
 Pro version can hide from any process scannner!
